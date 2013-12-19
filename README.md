@@ -12,7 +12,7 @@ To run the tests do:
 ```
 $ bundle install
 $ rake
-```
+``
 
 Should give the following result:
 ___________________________
