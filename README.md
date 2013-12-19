@@ -2,14 +2,17 @@ See Travis CI continuous integration => [![Build Status](https://travis-ci.org/j
 
 This project adds a new method to the Integer class that allows to represent a given Integer number in words. For example:
 
-> 106.to_w
+```Ruby
+106.to_w
 => "one hundred and six"
-
+```
 ___________________________
 To run the tests do:
 
+```
 $ bundle install
 $ rake
+```
 
 Should give the following result:
 ___________________________
