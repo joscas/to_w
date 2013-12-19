@@ -1,5 +1,11 @@
+This project adds a new method to the Integer class that allows to represent a given Integer number in words. For example:
 
+`
+irb> 106.to_w
+=> "one hundred and six"
+`
 
+___________________________
 To run the tests do:
 
 $ bundle install
