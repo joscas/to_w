@@ -2,7 +2,6 @@
 class Integer
   # Create a class variable with all base numbers in english
   @@english_numbers = {
-    # Use symbols to for resource efficency
     :'0' => 'zero',
     :'1' => 'one',
     :'2' => 'two',
