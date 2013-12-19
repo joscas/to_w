@@ -1,4 +1,4 @@
-# Using metaprograming to add a new 'to_w' method to the Integer class
+# Add a new 'to_w' method to the Integer class
 class Integer
   # Create a class variable with all base numbers in english
   @@english_numbers = {
