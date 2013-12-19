@@ -1,9 +1,9 @@
+See Travis CI continuous integration => [![Build Status](https://travis-ci.org/joscas/to_w.png?branch=master)](https://travis-ci.org/joscas/to_w)
+
 This project adds a new method to the Integer class that allows to represent a given Integer number in words. For example:
 
-`ruby
 > 106.to_w
 => "one hundred and six"
-`
 
 ___________________________
 To run the tests do:
